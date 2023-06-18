@@ -1,4 +1,5 @@
-# Food_carbon_footprint-Foot_print-
+# Food_carbon_footprint
+![image](https://github.com/Ds2023/Food_carbon_footprint-Foot_print-/blob/main/Images/view-vegetables-seeds-assortment%20(1).jpg)
 
 Food’s carbon footprint, or foodprint, is the greenhouse gas emissions produced by growing, rearing, farming, processing, transporting, storing, cooking and disposing of the food you eat. Worldwide, new reports suggest that livestock agriculture produces around a half of all man-made emissions.
 
@@ -11,12 +12,13 @@ The production of animal-based foods, such as beef, lamb, and cheese, is particu
 ## Effect:
 The high carbon footprint of the food system is contributing to climate change, which is already having a significant impact on the planet, including more extreme weather events, rising sea levels, and loss of biodiversity.
 
-Here are some specific examples of the impact of various food types on carbon emissions:
+In this project we explore the consumption and C02 emmission rates for various food types in numbers, highlighting specific regions as well (Eastern Africa Region) to shed light on the magnitude of the issue.
 
-Beef: Producing a kilogram of beef emits 60 kilograms of greenhouse gases (CO2-equivalents).
-Lamb: Producing a kilogram of lamb emits 20 kilograms of greenhouse gases (CO2-equivalents).
-Cheese: Producing a kilogram of cheese emits 14 kilograms of greenhouse gases (CO2-equivalents).
-Chicken: Producing a kilogram of chicken emits 6 kilograms of greenhouse gases (CO2-equivalents).
-Pea: Producing a kilogram of peas emits 1 kilogram of greenhouse gases (CO2-equivalents).
+### CO2 emmissions per food category (East African Region) 
+![image](https://github.com/Ds2023/Food_carbon_footprint-Foot_print-/blob/main/Images/CO2_EmmissionsEA.png)
 
-As you can see, there is a significant difference in the carbon footprint of different food types. By making choices about what we eat, we can all play a role in reducing the emissions from the food system and helping to mitigate climate change.
+### Emmissions vs Consumption of various food types
+![image](https://github.com/Ds2023/Food_carbon_footprint-Foot_print-/blob/main/Images/Emmissions%20vs%20Consumptions.png)
+
+### Beef contribution to C02 emmissions
+![image](https://github.com/Ds2023/Food_carbon_footprint-Foot_print-/blob/main/Images/beefmap.png)
